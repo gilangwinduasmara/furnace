@@ -1,0 +1,8 @@
+[workspace]
+resolver = "3"
+
+members = [
+    "furnace-core",
+    "furnace-cli",
+    "furnace-ui/src-tauri"
+]
