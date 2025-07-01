@@ -1,0 +1,8 @@
+php:
+  "8.2":
+    windows:
+      url: "https://windows.php.net/downloads/releases/php-8.2.12-Win32-vs16-x64.zip"
+    macos:
+      command: "brew install php@8.2"
+    linux:
+      command: "sudo apt install php8.2"
